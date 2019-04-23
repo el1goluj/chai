@@ -1,0 +1,25 @@
+
+Convolutional Neural Network - coarse partitioning (CNN)
+
+Compilation instructions:
+
+    make
+
+Execution instructions
+
+    ./cnn
+
+For more options:
+
+    ./cnn -h
+
+
+Note:
+The input folder contains a text file with the input data and input weights.
+The output folder contains the correct output for comparison purposes. 
+
+Acknowledgements:
+Vikram Anjur, Jeongmin Park
+
+Read more:
+https://chai-benchmarks.github.io/
